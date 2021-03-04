@@ -20,6 +20,8 @@
 
 - ⚡ Fun Fact: Love To Code 💻 | Dance 💃 | Travel 🌇 | Paint 🎨
 
+- 📝 Blogs: [Click here to read some Technical Blogs written by me](https://srishti.hashnode.dev/)
+
 <h4 align="center">Skills</h4>
 
 | Python | C++ | VS Code | MySQL | NumPy | Django | OpenCV | HTML5 | CSS | Ubuntu | Terminal | GoogleCloud | Hashnode | Jupyter | Git | GitHub | Bitbucket | SourceTree
